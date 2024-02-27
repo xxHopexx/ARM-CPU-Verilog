@@ -10,7 +10,9 @@ The code works in Modelsim as far as I checked, but there may be some issues sin
 my course so I apologize beforehand.
 
 ARM CPU Verilog Project
+
 Overview
+
 This repository contains a Verilog implementation of an ARM CPU. The project aims to provide a functional simulation of an ARM processor that can be synthesized on an FPGA or used in a simulation environment.
 
 Features
